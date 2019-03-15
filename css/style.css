@@ -1,0 +1,23 @@
+/* 
+Random Quotes Styles..
+*/
+*{
+    box-sizing: border-box;
+}
+body{
+    background: #fff;
+    color: #000;
+}
+
+.quotes-container{
+    background: #fff;
+    color: #aaa;
+    width: 100%;
+    padding: 20px 5px;
+    border-left: 4px solid orange;
+}
+
+.link{
+    text-decoration: none;
+    color: #2d9cdb;
+}
