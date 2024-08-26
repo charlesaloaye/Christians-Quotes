@@ -1,7 +1,6 @@
 <?php
+# Application Name
+$app_name = 'Random Christians Quotes';
 
-//  myVariables 
-# applicationName
-$appName = 'Christians Quotes';
-# myFullName
-$developer = ucwords('sedenu aloaye charles');
+# Developer name
+$developer = 'Sedenu Charles';
