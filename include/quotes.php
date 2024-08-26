@@ -206,5 +206,3 @@ $myQuotes = [
 // Generating Random quotes using the array_rand function.
 
 $quote = $myQuotes[array_rand($myQuotes)];
-
-?>
