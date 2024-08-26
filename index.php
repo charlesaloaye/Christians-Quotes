@@ -19,9 +19,9 @@
     &rdquo;
     </div>
     <footer>
-     Design With &hearts; by <a href='//instagram.com/sedenucharles' rel='follow' class='link'><?= $developer;?></a> 
+     Design With &hearts; by <a href='//instagram.com/sedenucharles' rel='follow' class='link'><?= $dev_name;?></a> 
      <br>
-     You can <a href='tel:<?= $developer_phone; ?>' class='link'>call Me</a> or <a href='mailto:<?= $developer_email; ?>' class='link'>Email Me</a>
+     You can <a href='tel:<?= $dev_phone; ?>' class='link'>call Me</a> or <a href='mailto:<?= $dev_email; ?>' class='link'>Email Me</a>
 
     </footer>
 </body>
